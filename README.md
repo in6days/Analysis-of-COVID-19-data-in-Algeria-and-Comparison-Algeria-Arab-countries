@@ -16,5 +16,3 @@ In this project, I will try to use most of what I have learned in this great cou
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/in6days/Analysis-of-COVID-19-data-in-Algeria-and-Comparison-Algeria-Arab-countries/master)
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/in6days/Analysis-of-COVID-19-data-in-Algeria-and-Comparison-Algeria-Arab-countries/master
