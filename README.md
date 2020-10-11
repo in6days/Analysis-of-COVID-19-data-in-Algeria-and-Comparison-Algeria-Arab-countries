@@ -14,5 +14,3 @@ References and Future Work
 Call
 In this project, I will try to use most of what I have learned in this great course Data Analysis with Python: Zero to Pandas to the analysis of COVID-19 data in my nice country Algeria and Comparised with Arab countries. To come out with results that may benefit Algeria and the world in the future.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/in6days/Analysis-of-COVID-19-data-in-Algeria-and-Comparison-Algeria-Arab-countries/master)
-
